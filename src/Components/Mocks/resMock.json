@@ -1,0 +1,90 @@
+{
+    "info": {
+        "id": "426776",
+        "name": "Theobroma",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/9/721f931b-39af-4c3b-9fb6-b6e7fb2871c3_426776.jpg",
+        "locality": "7th Block",
+        "areaName": "Koramangala",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Desserts", "Bakery", "Beverages"],
+        "avgRating": 4.6,
+        "parentId": "1040",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "6.2K+",
+        "sla": {
+            "deliveryTime": 35,
+            "lastMileTravel": 1.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "1.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-06-04 23:45:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "android/static-assets/icons/big_rx.png",
+                    "description": "bolt!"
+                },
+                {
+                    "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "bolt!",
+                                "imageId": "android/static-assets/icons/big_rx.png"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "15% OFF",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-36cfc45c-cd9a-4af5-8daf-67258ad5b317"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/bangalore/theobroma-7th-block-koramangala-rest426776",
+        "type": "WEBLINK"
+    }
+}
