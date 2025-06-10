@@ -84,4 +84,3 @@
 -- Unit Tesing 
 -- Integration Testing
 -- End to End testing -- e2e Testing
->>>>>>> fa99e28 (read me file)
